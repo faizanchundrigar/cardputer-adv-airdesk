@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+.DS_Store
+*.bin
+*.elf
+*.map
+*.zip
+.env*
+*backup*
+*credential*
+*secret*
+.venv/

@@ -1,0 +1,8 @@
+white/bg: 19.44:1
+muted/bg: 6.32:1
+muted/surface: 5.83:1
+white/selected: 10.38:1
+accent/bg: 11.06:1
+green/bg: 10.71:1
+amber/bg: 11.73:1
+Calculated sRGB contrast from RGB565 values, not measured LCD luminance.
